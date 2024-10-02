@@ -10,7 +10,7 @@ spring:
             server:
                 enabled: true
                 native:
-                search-locations:
+                    search-locations:
                     - classpath:/config
 
     profiles:

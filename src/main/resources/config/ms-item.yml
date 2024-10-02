@@ -1,6 +1,9 @@
 spring:
   application:
     name: ms-item
+  graphql:
+    graphiql:
+      enabled: true
 
 server:
   port: 8085
